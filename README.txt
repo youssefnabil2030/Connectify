@@ -175,4 +175,7 @@ Security & Real-Time Setup:
 - JWT Authentication: Symmetric Key Bearer validation active across protected routes.
 - CORS: Configured for local Next.js client origin (http://localhost:3000) with 
   WebSockets/SignalR credentials support enabled.
-================================================================================
+=======================================================================================================
+THIS PROJECT INCULED IN THE INTERNSHIP PROGRAM OF MISR INSURANCE IN DEPARTMENT OF SOFTWARE ENGINEERNIG 
+THE PROJECT REPRESENT THE TECHINCAL TEQUINCES OF BUILDING SCALABLE SYSTEMS .
+=======================================================================================================
