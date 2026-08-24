@@ -176,6 +176,6 @@ Security & Real-Time Setup:
 - CORS: Configured for local Next.js client origin (http://localhost:3000) with 
   WebSockets/SignalR credentials support enabled.
 =======================================================================================================
-THIS PROJECT INCULED IN THE INTERNSHIP PROGRAM OF MISR INSURANCE IN DEPARTMENT OF SOFTWARE ENGINEERNIG 
+THIS PROJECT INCLUDED IN THE INTERNSHIP PROGRAM OF MISR INSURANCE IN DEPARTMENT OF SOFTWARE ENGINEERNIG 
 THE PROJECT REPRESENT THE TECHINCAL TEQUINCES OF BUILDING SCALABLE SYSTEMS .
 =======================================================================================================
